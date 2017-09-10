@@ -1,0 +1,27 @@
+.container h3{
+	background-color: #337AB7;
+	color:white;
+	line-height: 50px;
+	text-align: center;
+	top:0px;
+	width: 100%;
+	position: static;
+	z-index: 1000;
+	margin:0;
+}
+.fixedbutton{
+	position: fixed;
+	right:10px;
+	bottom:10px;
+	display: none;
+}
+.row{
+	margin:0px !important;
+}
+.border{
+	border:1px solid #ccc;
+	padding:10px;
+}
+.big{
+	height:300px;
+}

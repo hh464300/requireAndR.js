@@ -1,0 +1,12 @@
+
+index.js
+----------------
+C:/wamp64/www/testrequireJS/bower_components/jquery/dist/jquery.min.js
+index.js
+
+main.js
+----------------
+C:/wamp64/www/testrequireJS/bower_components/jquery/dist/jquery.min.js
+C:/wamp64/www/testrequireJS/bower_components/bootstrap/dist/js/bootstrap.min.js
+index.js
+main.js
